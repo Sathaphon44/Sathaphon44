@@ -1,9 +1,3 @@
-<div
-  style="
-   display: flex;
-   width: 100%;
-   justify-content: center;
-  "
->
+<center>
   Hello World
-</div>
+</center>
